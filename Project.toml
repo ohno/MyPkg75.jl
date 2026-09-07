@@ -1,0 +1,10 @@
+name = "MyPkg75"
+uuid = "c34eeec3-1538-4fab-aa94-92a302cd6b8d"
+authors = ["Shuhei Ohno"]
+version = "0.0.1"
+
+[compat]
+julia = "1.12"
+
+[workspace]
+projects = ["test"]
